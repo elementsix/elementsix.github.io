@@ -1,4 +1,7 @@
 # About
 
-hi, i am a programer and i like coding ,
-
+## a progamer
+## like coding
+## like cat
+## apple fans
+## stay foolish, stay hungery
