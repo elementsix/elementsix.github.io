@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Elementsix
-description: liyong
-github_username: elementsix2
+title: Elementsix's blog
+description: one more thing : make different
+github_username: elementsix
 
 # Email and twitter are optional:
 email: elementsixsoft@gmail.com
-twitter_username: elementsix
+twitter_username: elementsix2
 
 # Set this to true to get LaTeX math equation support
 use_math:
