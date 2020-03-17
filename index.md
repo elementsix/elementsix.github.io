@@ -1,4 +1,3 @@
-one more thing
 
 ![zhangtianai](images/IMG_2368.jpg)
 
