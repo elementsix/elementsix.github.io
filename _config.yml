@@ -7,11 +7,14 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: ELEMENTSIX Blog
+
 description: stay foolish, stay hungery
+
 github_username: elementsix
 
 # Email and twitter are optional:
 email: elementsixsoft@gmail.com
+
 twitter_username: elementsix2
 
 # Set this to true to get LaTeX math equation support
