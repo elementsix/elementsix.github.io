@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>solving  hexo icarus theme local image display erro</title>
+      <link href="/2022/05/15/solving-hexo-icarus-theme-local-image-display-erro/"/>
+      <url>/2022/05/15/solving-hexo-icarus-theme-local-image-display-erro/</url>
+      
+        <content type="html"><![CDATA[<h1 id="解决hexo-本地图片无法显示问题"><a href="#解决hexo-本地图片无法显示问题" class="headerlink" title="解决hexo 本地图片无法显示问题"></a>解决hexo 本地图片无法显示问题</h1><p><strong>1.问题定义</strong>: 利用hexo 搭建静态博客，页面无法显示本地图片（如果图片网络地址来自网络可以正确显示）</p><p><strong>2.问题解决</strong>: 本地图片相对地址编译过程不能正确匹配网络端地址</p><p><strong>3.解决过程演示</strong><br>hexo + icarus theme 搭建静态博客</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>cs61a learing paln</title>
       <link href="/2022/05/12/cs61a-learing-paln/"/>
       <url>/2022/05/12/cs61a-learing-paln/</url>
